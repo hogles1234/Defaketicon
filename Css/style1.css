@@ -1,0 +1,723 @@
+.landing-tab,
+.landing-tab * {
+  box-sizing: border-box;
+}
+.landing-tab {
+  height: 4828px;
+  position: relative;
+}
+.image-9 {
+  width: 1437px;
+  height: 819px;
+  position: absolute;
+  left: 1px;
+  top: 11px;
+  object-fit: cover;
+}
+.what-is {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 40px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 950px;
+  width: 264px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.deepfake {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 64px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 300px;
+  top: 960px;
+  width: 385px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.deepfake-refers-to-the-use-of-deep-learning-and-fake-techniques-to-create-hyper-realistic-videos-of-individuals-appearing-to-say-or-do-things-that-never-occurred-it-is-a-synthetic-approach-for-replacing-a-person-in-an-existing-image-or-video-with-someone-else-s-characteristic-or-likeness-by-relying-on-machine-learning-algorithms-particularly-generative-adversarial-networks-ga-ns-seow-et-al-2022-westerlund-2019-when-employed-maliciously-deepfakes-can-have-a-negative-impact-on-political-and-social-dynamics-such-as-eroding-trust-in-institutions-harming-the-reputation-of-notable-persons-and-influencing-public-opinion-seow-et-al-2022-deep-fakes-can-also-be-lip-syncing-or-puppeteers-depending-on-how-the-material-is-generated-using-artificial-intelligence-deep-fakes-with-lip-sync-are-videos-in-which-the-mouth-motions-match-the-soundtrack-ahmed-et-al-2022-furthermore-puppet-master-deep-fakes-are-videos-of-puppets-monitoring-the-face-mask-motions-actions-and-head-movements-of-a-grand-in-front-of-a-photographic-camera-deepfake-technologies-frequently-require-a-large-amount-of-image-and-video-data-to-train-the-design-of-recognizable-picture-realistic-images-and-videos-ahmed-et-al-2022 {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 106px;
+  top: 1000px;
+  width: 630px;
+  height: 326px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sources-seow-et-al-2022-https-www-sciencedirect-com-science-article-abs-pii-s-0925231222012334-westerlund-2019-https-timreview-ca-article-1282-ahmed-et-al-2022-https-ieeexplore-ieee-org-abstract-document-9799858 {
+  color: #06172f;
+  text-align: left;
+  position: absolute;
+  left: 106px;
+  top: 1340px;
+  width: 570px;
+  height: 86px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sources-seow-et-al-2022-https-www-sciencedirect-com-science-article-abs-pii-s-0925231222012334-westerlund-2019-https-timreview-ca-article-1282-ahmed-et-al-2022-https-ieeexplore-ieee-org-abstract-document-9799858-span {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 9px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+}
+.sources-seow-et-al-2022-https-www-sciencedirect-com-science-article-abs-pii-s-0925231222012334-westerlund-2019-https-timreview-ca-article-1282-ahmed-et-al-2022-https-ieeexplore-ieee-org-abstract-document-9799858-span2 {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 9px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+}
+.sources-seow-et-al-2022-https-www-sciencedirect-com-science-article-abs-pii-s-0925231222012334-westerlund-2019-https-timreview-ca-article-1282-ahmed-et-al-2022-https-ieeexplore-ieee-org-abstract-document-9799858-span3 {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 9px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+}
+.sources-seow-et-al-2022-https-www-sciencedirect-com-science-article-abs-pii-s-0925231222012334-westerlund-2019-https-timreview-ca-article-1282-ahmed-et-al-2022-https-ieeexplore-ieee-org-abstract-document-9799858-span4 {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 9px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+}
+.sources-seow-et-al-2022-https-www-sciencedirect-com-science-article-abs-pii-s-0925231222012334-westerlund-2019-https-timreview-ca-article-1282-ahmed-et-al-2022-https-ieeexplore-ieee-org-abstract-document-9799858-span5 {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 9px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+  text-decoration: underline;
+}
+.deepfake-ethique-removebg-preview-1 {
+  width: 832px;
+  height: 627px;
+  position: absolute;
+  left: 606px;
+  top: 824px;
+  object-fit: cover;
+}
+.rectangle-12 {
+  width: 1438px;
+  height: 884px;
+  position: absolute;
+  left: 0px;
+  top: 1451px;
+  overflow: visible;
+}
+.rectangle-26 {
+  background: #f4f4f4;
+  width: 1437px;
+  height: 1398px;
+  position: absolute;
+  left: 3px;
+  top: 2335px;
+}
+.how-it-started {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 64px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 410px;
+  top: 1577px;
+  width: 621px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-10 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px 0 0 0;
+  width: 220px;
+  height: 0px;
+  position: absolute;
+  left: 610px;
+  top: 1681px;
+}
+.the-term-came-to-be-used-for-synthetic-media-in-2017-when-a-reddit-moderator-created-a-subreddit-called-deepfakes-and-began-posting-videos-that-used-face-swapping-technology-to-insert-celebrities-likenesses-into-existing-pornographic-videos-payne-2024-however-the-concept-of-deepfakes-or-deepfaking-can-be-traced-back-to-efforts-starting-in-the-1990-s-when-researchers-used-cgi-in-attempts-to-create-realistic-images-of-humans-the-technology-gained-traction-in-the-2010-s-when-the-availability-of-large-datasets-developments-in-machine-learning-and-the-power-of-new-computing-resources-led-to-major-advances-in-the-field-the-open-source-deepfake-creation-tools-have-been-tested-and-refined-by-legions-of-hobbyists-who-have-utilized-these-tools-for-purposes-of-benign-entertainment-memes-swapping-out-actors-faces-in-classic-movies-and-more-sinister-appalling-goals-like-the-creation-of-deepfake-pornography-it-was-the-participation-and-driving-interest-of-everyday-users-beginning-in-2017-that-has-brought-the-technology-to-where-it-is-now-regan-2024 {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 147px;
+  top: 1671px;
+  width: 1142px;
+  height: 254px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-5 {
+  width: 914px;
+  height: 485px;
+  position: absolute;
+  left: 261px;
+  top: 1925px;
+  object-fit: cover;
+}
+.line-24 {
+  background: #06172f;
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px 0 0 0;
+  width: 1320.02px;
+  height: 0px;
+  position: absolute;
+  left: 55px;
+  top: 92px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.deepfake-technology-uses-machine-learning-particularly-generative-adversarial-networks-ga-ns-to-create-fake-but-realistic-videos-or-images-the-process-begins-by-training-a-model-with-large-amounts-of-data-such-as-pictures-or-videos-of-a-person-this-helps-the-model-learn-the-person-s-facial-features-expressions-and-movements-once-trained-the-model-can-replace-someone-s-face-in-a-video-or-change-their-expressions-creating-a-new-synthetic-version-of-the-video-yu-et-al-2021-these-deepfake-videos-often-look-very-real-but-they-might-have-subtle-flaws-for-example-the-face-may-not-match-the-body-perfectly-or-there-could-be-unnatural-movements-these-signs-can-sometimes-help-identify-deepfakes-although-the-technology-has-improved-so-much-that-it-s-becoming-harder-to-spot-them-despite-these-advancements-inconsistencies-in-how-the-face-moves-or-interacts-with-the-rest-of-the-body-can-still-give-deepfakes-away-yu-et-al-2021 {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 579px;
+  top: 2625px;
+  width: 780px;
+  height: 211px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.how-it-is-made {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 60px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 506px;
+  top: 2535px;
+  width: 554px;
+  height: 69px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-10 {
+  width: 434px;
+  height: 484px;
+  position: absolute;
+  left: 83px;
+  top: 2535px;
+  object-fit: cover;
+}
+.image-11 {
+  width: 434px;
+  height: 487px;
+  position: absolute;
+  left: 83px;
+  top: 3019px;
+  object-fit: cover;
+}
+.ellipse-3 {
+  background: #223248;
+  border-radius: 50%;
+  width: 75px;
+  height: 74px;
+  position: absolute;
+  left: 580px;
+  top: 3450px;
+}
+.ellipse-4 {
+  background: #223248;
+  border-radius: 50%;
+  width: 75px;
+  height: 74px;
+  position: absolute;
+  left: 580px;
+  top: 3162px;
+}
+.ellipse-5 {
+  background: #223248;
+  border-radius: 50%;
+  width: 75px;
+  height: 74px;
+  position: absolute;
+  left: 579px;
+  top: 2918px;
+}
+.line-14 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #223248;
+  border-width: 2px 0 0 0;
+  width: 115px;
+  height: 0px;
+  position: absolute;
+  left: 616px;
+  top: 3262px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-15 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #223248;
+  border-width: 2px 0 0 0;
+  width: 115px;
+  height: 0px;
+  position: absolute;
+  left: 616px;
+  top: 3018px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.image-13 {
+  width: 365px;
+  height: 757px;
+  position: absolute;
+  left: 795px;
+  top: 2880px;
+  object-fit: cover;
+}
+.the-obvious-reason-for-the-problem-is-that-deepfakes-can-deceive-humans-even-if-viewers-are-not-tricked-by-a-deepfake-they-may-become-unsure-if-their-content-is-authentic-or-not-uncertainty-is-very-different-from-ambivalence-ambivalence-occurs-when-people-are-faced-with-a-decision-on-which-they-have-opposing-views-and-additional-information-only-heightens-the-internalized-conflict-in-contrast-uncertainty-occurs-when-there-is-not-enough-knowledge-to-make-a-decision-and-it-can-be-resolved-by-the-introduction-of-fresh-information-alavrez-brehm-1997-as-cited-in-vaccari-chadwick-2020-according-to-downs-1957-citizens-experience-uncertainty-because-the-costs-for-gaining-precise-information-are-prohibitively-pricey-deepfakes-may-raise-the-price-of-obtaining-reliable-information-resulting-in-greater-uncertainty-thus-we-investigate-whether-deceptive-deepfakes-create-confusion-about-the-information-they-contain {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 257px;
+  top: 3950px;
+  width: 923px;
+  height: 176px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.for-more-information-about-the-threats-deepfake-can-impose-click-on-threats {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 30px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 319px;
+  top: 4200px;
+  width: 798px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.for-more-information-about-the-threats-deepfake-can-impose-click-on-threats-span {
+  color: #06172f;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.for-more-information-about-the-threats-deepfake-can-impose-click-on-threats-span2 {
+  color: #06172f;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.global-urgency {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 60px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 441px;
+  top: 3855px;
+  width: 554px;
+  height: 69px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.global-network-connection-world-map-point-and-line-composition-concept-of-global-business-illustration-vector-1-1 {
+  width: 1437px;
+  height: 609px;
+  position: absolute;
+  left: 1px;
+  top: 4219px;
+  object-fit: cover;
+}
+.source-figure-1-deepfake-detection-techniques-from-maheshwari-paulchamy-2024-study-on-securing-online-integrity-a-hybrid-approach-to-deepfake-detection-and-removal-using-explainable-ai-and-adversarial-robustness-training {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  text-decoration: underline;
+  position: absolute;
+  left: 600px;
+  top: 3615px;
+  width: 754px;
+  height: 134px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-18 {
+  opacity: 1;
+  width: 1437px;
+  height: 819px;
+  position: absolute;
+  left: 1px;
+  top: 11px;
+  overflow: visible;
+}
+.the-world-of-deepfake {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 785px;
+  top: 343px;
+  width: 593px;
+  height: 209px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.defaketicon-tab-1 {
+  width: 394px;
+  height: 143px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.line-31 {
+  background: #06172f;
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px 0 0 0;
+  width: 1320.02px;
+  height: 0px;
+  position: absolute;
+  left: 55px;
+  top: 92px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.videos {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 805px;
+  top: 54px;
+  width: 101px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.threats-recommendations {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 918px;
+  top: 12px;
+  width: 320px;
+  height: 106px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 690px;
+  top: 48px;
+  width: 90px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-32 {
+  width: 181px;
+  height: 106px;
+  position: absolute;
+  left: 1188px;
+  top: 11px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 1194px;
+  top: 12px;
+  width: 181px;
+  height: 106px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.payne-2024-https-www-britannica-com-technology-deepfake {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Italic",
+    sans-serif
+  );
+  font-size: 9px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  left: 420px;
+  top: 1885px;
+  width: 630px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sources {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Italic",
+    sans-serif
+  );
+  font-size: 11px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  left: 471px;
+  top: 1863px;
+  width: 529px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.regan-2024-https-www-realitydefender-com-blog-history-of-deepfakes {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Italic",
+    sans-serif
+  );
+  font-size: 9px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  left: 425px;
+  top: 1902px;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.source-yu-et-al-2021-https-ietresearch-onlinelibrary-wiley-com-doi-full-10-1049-bme-2-12031 {
+  color: #06172f;
+  text-align: left;
+  position: absolute;
+  left: 579px;
+  top: 2826px;
+  width: 800px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.source-yu-et-al-2021-https-ietresearch-onlinelibrary-wiley-com-doi-full-10-1049-bme-2-12031-span {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 11px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+}
+.source-yu-et-al-2021-https-ietresearch-onlinelibrary-wiley-com-doi-full-10-1049-bme-2-12031-span2 {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 12px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+  text-decoration: underline;
+}
+.source-yu-et-al-2021-https-ietresearch-onlinelibrary-wiley-com-doi-full-10-1049-bme-2-12031-span3 {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 11px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+}
+.source-vaccari-chadwick-2020-https-journals-sagepub-com-doi-10-1177-2056305120903408-bibr-18-2056305120903408-downs-1957-also-cited-in-vaccari-chadwick-2020 {
+  color: #06172f;
+  text-align: left;
+  position: absolute;
+  left: 271px;
+  top: 4140px;
+  width: 755px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.source-vaccari-chadwick-2020-https-journals-sagepub-com-doi-10-1177-2056305120903408-bibr-18-2056305120903408-downs-1957-also-cited-in-vaccari-chadwick-2020-span {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 10px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+}
+.source-vaccari-chadwick-2020-https-journals-sagepub-com-doi-10-1177-2056305120903408-bibr-18-2056305120903408-downs-1957-also-cited-in-vaccari-chadwick-2020-span2 {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 10px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+  text-decoration: underline;
+}
+.source-vaccari-chadwick-2020-https-journals-sagepub-com-doi-10-1177-2056305120903408-bibr-18-2056305120903408-downs-1957-also-cited-in-vaccari-chadwick-2020-span3 {
+  color: #06172f;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 10px;
+  line-height: 100%;
+  font-weight: 400;
+  font-style: italic;
+}
+.wrapper {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
