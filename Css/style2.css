@@ -1,0 +1,1143 @@
+.video-tab,
+.video-tab * {
+  box-sizing: border-box;
+}
+.video-tab {
+  height: 4434px;
+  position: relative;
+}
+.video-tab-rectangle {
+  width: 1440px;
+  height: 4556px;
+  position: absolute;
+  left: 1px;
+  top: 12px;
+  overflow: visible;
+}
+.rectangle-47 {
+  background: #d9d9d9;
+  width: 646px;
+  height: 403px;
+  position: absolute;
+  left: 717px;
+  top: 1935px;
+}
+.rectangle-48 {
+  background: #d9d9d9;
+  width: 646px;
+  height: 403px;
+  position: absolute;
+  left: 707px;
+  top: 2448px;
+}
+.rectangle-49 {
+  background: #d9d9d9;
+  width: 646px;
+  height: 403px;
+  position: absolute;
+  left: 714px;
+  top: 2991px;
+}
+.rectangle-50 {
+  background: #d9d9d9;
+  width: 646px;
+  height: 403px;
+  position: absolute;
+  left: 714px;
+  top: 3553px;
+}
+.frame-32 {
+  width: 181px;
+  height: 106px;
+  position: absolute;
+  left: 1241px;
+  top: 11px;
+}
+.length-3-minutes-and-38-seconds-this-video-by-the-new-york-times-illustrates-the-growing-threat-of-deepfakes-ai-generated-videos-that-manipulate-faces-and-voices-making-it-increasingly-impossible-to-trust-visual-content-the-implications-of-deepfakes-are-profound-as-they-contribute-to-the-spread-of-misinformation-undermine-media-credibility-and-pose-risks-to-national-security-and-elections-the-rise-of-deepfakes-along-with-simpler-manipulations-like-shallowfakes-videos-altered-using-basic-editing-techniques-such-as-speeding-up-slowing-down-or-omitting-context-challenges-the-public-s-ability-to-discern-truth-from-falsehood-raising-concerns-about-the-future-of-digital-media-and-its-impact-on-society {
+  color: #06172f;
+  text-align: left;
+  font-family: var(--var-sds-typography-body-font-family, "-", sans-serif);
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 85px;
+  top: 1018px;
+  width: 500px;
+  height: 202px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.length-3-minutes-and-38-seconds-this-video-by-the-new-york-times-illustrates-the-growing-threat-of-deepfakes-ai-generated-videos-that-manipulate-faces-and-voices-making-it-increasingly-impossible-to-trust-visual-content-the-implications-of-deepfakes-are-profound-as-they-contribute-to-the-spread-of-misinformation-undermine-media-credibility-and-pose-risks-to-national-security-and-elections-the-rise-of-deepfakes-along-with-simpler-manipulations-like-shallowfakes-videos-altered-using-basic-editing-techniques-such-as-speeding-up-slowing-down-or-omitting-context-challenges-the-public-s-ability-to-discern-truth-from-falsehood-raising-concerns-about-the-future-of-digital-media-and-its-impact-on-society-span {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.length-3-minutes-and-38-seconds-this-video-by-the-new-york-times-illustrates-the-growing-threat-of-deepfakes-ai-generated-videos-that-manipulate-faces-and-voices-making-it-increasingly-impossible-to-trust-visual-content-the-implications-of-deepfakes-are-profound-as-they-contribute-to-the-spread-of-misinformation-undermine-media-credibility-and-pose-risks-to-national-security-and-elections-the-rise-of-deepfakes-along-with-simpler-manipulations-like-shallowfakes-videos-altered-using-basic-editing-techniques-such-as-speeding-up-slowing-down-or-omitting-context-challenges-the-public-s-ability-to-discern-truth-from-falsehood-raising-concerns-about-the-future-of-digital-media-and-its-impact-on-society-span2 {
+  color: #06172f;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.uploaded-by-the-new-york-times-on-august-15-2019-website-https-www-nytimes-com-2019-08-14-opinion-deepfakes-adele-disinformation-html {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 90px;
+  top: 1252px;
+  width: 542px;
+  height: 96px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.uploaded-by-the-new-york-times-on-august-15-2019-website-https-www-nytimes-com-2019-08-14-opinion-deepfakes-adele-disinformation-html-span {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.uploaded-by-the-new-york-times-on-august-15-2019-website-https-www-nytimes-com-2019-08-14-opinion-deepfakes-adele-disinformation-html-span2 {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  text-decoration: underline;
+}
+.deepfakes-is-this-video-even-real-i-nyt-opinion {
+  color: #3b506e;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 38px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 47px;
+  top: 891px;
+  width: 625px;
+  height: 107px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.length-5-minutes-and-7-seconds-this-video-features-dr-hany-farid-a-professor-at-uc-berkeley-discussing-what-deepfakes-are-their-potential-dangers-and-strategies-to-mitigate-associated-risks-it-s-a-concise-introduction-to-the-subject-highlighting-the-challenges-deepfakes-pose-to-information-security {
+  color: #06172f;
+  text-align: left;
+  font-family: var(--var-sds-typography-body-font-family, "-", sans-serif);
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 87px;
+  top: 1559px;
+  width: 528px;
+  height: 121px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.length-5-minutes-and-7-seconds-this-video-features-dr-hany-farid-a-professor-at-uc-berkeley-discussing-what-deepfakes-are-their-potential-dangers-and-strategies-to-mitigate-associated-risks-it-s-a-concise-introduction-to-the-subject-highlighting-the-challenges-deepfakes-pose-to-information-security-span {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.length-5-minutes-and-7-seconds-this-video-features-dr-hany-farid-a-professor-at-uc-berkeley-discussing-what-deepfakes-are-their-potential-dangers-and-strategies-to-mitigate-associated-risks-it-s-a-concise-introduction-to-the-subject-highlighting-the-challenges-deepfakes-pose-to-information-security-span2 {
+  color: #06172f;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.uploaded-by-uc-berkeley-center-for-long-term-cybersecurity-on-april-1-2021-website-https-cltc-berkeley-edu-publication-what-so-what-now-what-episode-3-a-video-on-deepfakes-featuring-prof-hany-farid {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 87px;
+  top: 1718px;
+  width: 587px;
+  height: 96px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.uploaded-by-uc-berkeley-center-for-long-term-cybersecurity-on-april-1-2021-website-https-cltc-berkeley-edu-publication-what-so-what-now-what-episode-3-a-video-on-deepfakes-featuring-prof-hany-farid-span {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.uploaded-by-uc-berkeley-center-for-long-term-cybersecurity-on-april-1-2021-website-https-cltc-berkeley-edu-publication-what-so-what-now-what-episode-3-a-video-on-deepfakes-featuring-prof-hany-farid-span2 {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  text-decoration: underline;
+}
+.uploaded-by-uc-berkeley-center-for-long-term-cybersecurity-on-april-1-2021-website-https-cltc-berkeley-edu-publication-what-so-what-now-what-episode-3-a-video-on-deepfakes-featuring-prof-hany-farid-span3 {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.deepfakes-what-so-what-now-what {
+  color: #3b506e;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 49px;
+  top: 1432px;
+  width: 625px;
+  height: 107px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.length-7-minutes-and-56-seconds-in-this-video-sam-gregory-program-director-at-the-human-rights-nonprofit-witness-talks-with-wired-senior-writer-tom-simonite-about-the-implications-of-deepfake-videos-and-how-society-can-adjust-to-this-emerging-technology-the-discussion-provides-valuable-insights-into-the-ethical-and-societal-impacts-of-deepfakes {
+  color: #06172f;
+  text-align: left;
+  font-family: var(--var-sds-typography-body-font-family, "-", sans-serif);
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 87px;
+  top: 2075px;
+  width: 528px;
+  height: 143px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.length-7-minutes-and-56-seconds-in-this-video-sam-gregory-program-director-at-the-human-rights-nonprofit-witness-talks-with-wired-senior-writer-tom-simonite-about-the-implications-of-deepfake-videos-and-how-society-can-adjust-to-this-emerging-technology-the-discussion-provides-valuable-insights-into-the-ethical-and-societal-impacts-of-deepfakes-span {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.length-7-minutes-and-56-seconds-in-this-video-sam-gregory-program-director-at-the-human-rights-nonprofit-witness-talks-with-wired-senior-writer-tom-simonite-about-the-implications-of-deepfake-videos-and-how-society-can-adjust-to-this-emerging-technology-the-discussion-provides-valuable-insights-into-the-ethical-and-societal-impacts-of-deepfakes-span2 {
+  color: #06172f;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.uploaded-by-wired-on-october-5-2019-website-https-www-wired-com-video-watch-researcher-explains-deepfake-videos {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 81px;
+  top: 2265px;
+  width: 432px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.uploaded-by-wired-on-october-5-2019-website-https-www-wired-com-video-watch-researcher-explains-deepfake-videos-span {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.uploaded-by-wired-on-october-5-2019-website-https-www-wired-com-video-watch-researcher-explains-deepfake-videos-span2 {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  text-decoration: underline;
+}
+.researcher-explains-deepfake-videos-wired {
+  color: #3b506e;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 67px;
+  top: 1948px;
+  width: 625px;
+  height: 107px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-25 {
+  width: 1437px;
+  height: 812px;
+  position: absolute;
+  left: 1px;
+  top: 11px;
+  overflow: visible;
+}
+.rectangle-19 {
+  background: #d9d9d9;
+  width: 646px;
+  height: 403px;
+  position: absolute;
+  left: 714px;
+  top: 917px;
+}
+.rectangle-46 {
+  background: #d9d9d9;
+  width: 646px;
+  height: 403px;
+  position: absolute;
+  left: 714px;
+  top: 1431px;
+}
+.line-7 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #06172f;
+  border-width: 1px 0 0 0;
+  width: 1278px;
+  height: 0px;
+  position: absolute;
+  left: 83px;
+  top: 1372px;
+}
+.line-8 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #06172f;
+  border-width: 1px 0 0 0;
+  width: 1278px;
+  height: 0px;
+  position: absolute;
+  left: 85px;
+  top: 1886px;
+}
+.line-9 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #06172f;
+  border-width: 1px 0 0 0;
+  width: 1278px;
+  height: 0px;
+  position: absolute;
+  left: 82px;
+  top: 2389px;
+}
+.line-11 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #06172f;
+  border-width: 1px 0 0 0;
+  width: 1278px;
+  height: 0px;
+  position: absolute;
+  left: 82px;
+  top: 2910px;
+}
+.line-12 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #06172f;
+  border-width: 1px 0 0 0;
+  width: 1278px;
+  height: 0px;
+  position: absolute;
+  left: 80px;
+  top: 3479px;
+}
+.line-16 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #06172f;
+  border-width: 1px 0 0 0;
+  width: 1278px;
+  height: 0px;
+  position: absolute;
+  left: 75px;
+  top: 4016px;
+}
+.videos-about-deepfake {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 80px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 764px;
+  top: 228px;
+  width: 621px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gio-1 {
+  width: 1258px;
+  height: 708px;
+  position: absolute;
+  left: -292px;
+  top: 115px;
+  object-fit: cover;
+  aspect-ratio: 1258/708;
+}
+.these-videos-offer-an-in-depth-look-at-the-world-of-deepfakes-with-a-total-watch-time-of-just-over-43-minutes-together-they-explain-how-deepfakes-are-made-why-they-re-so-convincing-and-the-impact-they-re-already-having-on-our-lives-the-new-york-times-highlights-how-this-technology-can-fuel-misinformation-and-shake-public-trust-dr-hany-farid-from-berkeley-breaks-down-the-security-risks-in-simple-terms-while-sam-gregory-from-witness-shares-powerful-insights-on-how-society-can-adapt-to-this-new-reality-vox-focuses-on-the-devastating-personal-consequences-of-deepfake-misuse-especially-for-women-and-tom-graham-s-ted-talk-dives-into-the-fine-line-between-creative-innovation-and-harmful-misuse-al-jazeera-s-start-here-episode-offers-a-broad-overview-from-entertaining-uses-to-darker-threats-like-fraud-and-harassment-altogether-these-videos-help-explain-why-deepfakes-matter-and-how-important-it-is-to-be-aware-of-this-technology-not-just-to-protect-ourselves-but-to-shape-a-digital-world-where-truth-can-still-be-trusted {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 825px;
+  top: 502px;
+  width: 520px;
+  height: 261px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.total-watch-time-43-minutes-and-2-seconds {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--var-sds-typography-body-font-family, "-", sans-serif);
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 887px;
+  top: 421px;
+  width: 375px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.total-watch-time-43-minutes-and-2-seconds-span {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.total-watch-time-43-minutes-and-2-seconds-span2 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.total-watch-time-43-minutes-and-2-seconds-span3 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.total-watch-time-43-minutes-and-2-seconds-span4 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.line-23 {
+  background: #06172f;
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px 0 0 0;
+  width: 1320.02px;
+  height: 0px;
+  position: absolute;
+  left: 54px;
+  top: 92px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.test-your-skills {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 60px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 186px;
+  top: 4205px;
+  width: 1055px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.test-your-skills-by-playing-our-game-detective-deepfake-simply-identify-whether-the-image-shown-is-deepfake-or-real {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 187px;
+  top: 4235px;
+  width: 1055px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.frame-33 {
+  width: 181px;
+  height: 106px;
+  position: absolute;
+  left: 1164px;
+  top: 12px;
+}
+.frame-322 {
+  width: 181px;
+  height: 106px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-31 {
+  width: 181px;
+  height: 106px;
+  position: absolute;
+  left: 26px;
+  top: 0px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 1194px;
+  top: 12px;
+  width: 181px;
+  height: 106px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.d-5-3 {
+  width: 394px;
+  height: 143px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.line-32 {
+  background: #06172f;
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px 0 0 0;
+  width: 1320.02px;
+  height: 0px;
+  position: absolute;
+  left: 55px;
+  top: 92px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.videos {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 805px;
+  top: 54px;
+  width: 101px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.game {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 844px;
+  top: 54px;
+  width: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.threats-recommendations {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 918px;
+  top: 12px;
+  width: 320px;
+  height: 106px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 690px;
+  top: 48px;
+  width: 90px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-37 {
+  background: #06172f;
+  width: 273px;
+  height: 75px;
+  position: absolute;
+  left: 578px;
+  top: 4337px;
+}
+.play {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 42px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 616px;
+  top: 4355px;
+  width: 197px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-33 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 461px;
+  height: 0px;
+  position: absolute;
+  left: 837px;
+  top: 420px;
+}
+.youtube-embed1{
+  width: 598px;
+  height: 357px;
+  position: absolute;
+  left: 739px;
+  top: 941px;
+  object-fit: cover;
+}
+.youtube-embed2{
+  width: 598px;
+  height: 356px;
+  position: absolute;
+  left: 738px;
+  top: 1454px;
+  object-fit: cover;
+}
+.youtube-embed3 {
+  width: 598px;
+  height: 343px;
+  position: absolute;
+  left: 740px;
+  top: 1965px;
+  object-fit: cover;
+}
+.length-6-minutes-and-30-seconds-this-vox-video-highlights-how-the-most-immediate-threat-of-deepfakes-lies-not-in-political-misinformation-but-in-more-personal-and-societal-dangers-such-as-non-consensual-explicit-videos-fraud-and-harassment-the-video-underscores-the-devastating-effects-deepfakes-can-have-on-individuals-especially-women-who-often-become-victims-of-such-exploitation-it-provides-a-clear-accessible-breakdown-of-the-current-state-of-deepfake-technology-and-its-rapid-advancement-as-well-as-the-insufficient-legal-and-technological-safeguards-against-its-misuse-the-content-stresses-the-need-for-increased-awareness-and-robust-protective-measures-emphasizing-that-the-most-urgent-concerns-of-deepfakes-are-deeply-personal-and-already-affecting-lives {
+  color: #06172f;
+  text-align: left;
+  font-family: var(--var-sds-typography-body-font-family, "-", sans-serif);
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 81px;
+  top: 2574px;
+  width: 528px;
+  height: 213px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.length-6-minutes-and-30-seconds-this-vox-video-highlights-how-the-most-immediate-threat-of-deepfakes-lies-not-in-political-misinformation-but-in-more-personal-and-societal-dangers-such-as-non-consensual-explicit-videos-fraud-and-harassment-the-video-underscores-the-devastating-effects-deepfakes-can-have-on-individuals-especially-women-who-often-become-victims-of-such-exploitation-it-provides-a-clear-accessible-breakdown-of-the-current-state-of-deepfake-technology-and-its-rapid-advancement-as-well-as-the-insufficient-legal-and-technological-safeguards-against-its-misuse-the-content-stresses-the-need-for-increased-awareness-and-robust-protective-measures-emphasizing-that-the-most-urgent-concerns-of-deepfakes-are-deeply-personal-and-already-affecting-lives-span {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.length-6-minutes-and-30-seconds-this-vox-video-highlights-how-the-most-immediate-threat-of-deepfakes-lies-not-in-political-misinformation-but-in-more-personal-and-societal-dangers-such-as-non-consensual-explicit-videos-fraud-and-harassment-the-video-underscores-the-devastating-effects-deepfakes-can-have-on-individuals-especially-women-who-often-become-victims-of-such-exploitation-it-provides-a-clear-accessible-breakdown-of-the-current-state-of-deepfake-technology-and-its-rapid-advancement-as-well-as-the-insufficient-legal-and-technological-safeguards-against-its-misuse-the-content-stresses-the-need-for-increased-awareness-and-robust-protective-measures-emphasizing-that-the-most-urgent-concerns-of-deepfakes-are-deeply-personal-and-already-affecting-lives-span2 {
+  color: #06172f;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.uploaded-by-vox-on-june-8-2020 {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 2821px;
+  width: 432px;
+  height: 96px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.the-most-urgent-threat-of-deepfakes-isn-t-politics {
+  color: #3b506e;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 32px;
+  top: 2440px;
+  width: 625px;
+  height: 107px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.youtube-embed4 {
+  width: 593px;
+  height: 343px;
+  position: absolute;
+  left: 733px;
+  top: 2478px;
+  object-fit: cover;
+}
+.length-13-minutes-and-6-seconds-in-this-ted-talk-video-tom-graham-ceo-of-a-digital-identity-company-explores-the-dual-edged-nature-of-deepfake-technology-he-discusses-how-deepfakes-have-revolutionized-creative-industries-allowing-for-unprecedented-forms-of-digital-storytelling-virtual-performances-and-immersive-content-creation-however-he-warns-that-the-same-technology-that-fuels-innovation-can-also-be-weaponized-for-misinformation-fraud-and-personal-harm-graham-emphasizes-the-need-to-balance-creativity-with-responsibility-advocating-for-stronger-safeguards-regulations-and-personal-digital-protections-to-ensure-that-advancements-in-ai-benefit-society-without-enabling-exploitation-this-talk-provides-a-nuanced-perspective-on-the-future-of-synthetic-media-and-its-ethical-implications {
+  color: #06172f;
+  text-align: left;
+  font-family: var(--var-sds-typography-body-font-family, "-", sans-serif);
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 3146px;
+  width: 580px;
+  height: 229px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.length-13-minutes-and-6-seconds-in-this-ted-talk-video-tom-graham-ceo-of-a-digital-identity-company-explores-the-dual-edged-nature-of-deepfake-technology-he-discusses-how-deepfakes-have-revolutionized-creative-industries-allowing-for-unprecedented-forms-of-digital-storytelling-virtual-performances-and-immersive-content-creation-however-he-warns-that-the-same-technology-that-fuels-innovation-can-also-be-weaponized-for-misinformation-fraud-and-personal-harm-graham-emphasizes-the-need-to-balance-creativity-with-responsibility-advocating-for-stronger-safeguards-regulations-and-personal-digital-protections-to-ensure-that-advancements-in-ai-benefit-society-without-enabling-exploitation-this-talk-provides-a-nuanced-perspective-on-the-future-of-synthetic-media-and-its-ethical-implications-span {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.length-13-minutes-and-6-seconds-in-this-ted-talk-video-tom-graham-ceo-of-a-digital-identity-company-explores-the-dual-edged-nature-of-deepfake-technology-he-discusses-how-deepfakes-have-revolutionized-creative-industries-allowing-for-unprecedented-forms-of-digital-storytelling-virtual-performances-and-immersive-content-creation-however-he-warns-that-the-same-technology-that-fuels-innovation-can-also-be-weaponized-for-misinformation-fraud-and-personal-harm-graham-emphasizes-the-need-to-balance-creativity-with-responsibility-advocating-for-stronger-safeguards-regulations-and-personal-digital-protections-to-ensure-that-advancements-in-ai-benefit-society-without-enabling-exploitation-this-talk-provides-a-nuanced-perspective-on-the-future-of-synthetic-media-and-its-ethical-implications-span2 {
+  color: #06172f;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.uploaded-by-ted-on-may-19-2023 {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 82px;
+  top: 3392px;
+  width: 432px;
+  height: 96px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact {
+  color: #06172f;
+font-family: var(
+--var-sds-typography-body-font-family,
+"Inter-Regular",
+sans-serif
+);
+font-size: 30px;
+line-height: 100%;
+font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+width: 1117px;
+height: 100px;
+position: absolute;
+left: 2px;
+top: 1930px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+.length-7-minutes-and-45-seconds-this-al-jazeera-english-episode-of-start-here-provides-an-in-depth-explanation-of-deepfakes-from-how-they-are-created-using-artificial-intelligence-to-the-ethical-and-societal-dilemmas-they-pose-the-video-outlines-both-the-potential-harmless-uses-of-deepfakes-such-as-entertainment-and-satire-and-the-darker-implications-including-non-consensual-content-political-disinformation-and-financial-fraud-it-features-expert-commentary-on-how-deepfakes-can-erode-trust-in-digital-content-and-highlights-the-difficulty-of-distinguishing-between-authentic-and-synthetic-media-the-episode-stresses-the-urgent-need-for-public-awareness-regulations-and-technical-countermeasures-to-mitigate-the-risks-posed-by-deepfake-technology-in-our-increasingly-digital-world {
+  color: #06172f;
+  text-align: left;
+  font-family: var(--var-sds-typography-body-font-family, "-", sans-serif);
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 3702px;
+  width: 586px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.length-7-minutes-and-45-seconds-this-al-jazeera-english-episode-of-start-here-provides-an-in-depth-explanation-of-deepfakes-from-how-they-are-created-using-artificial-intelligence-to-the-ethical-and-societal-dilemmas-they-pose-the-video-outlines-both-the-potential-harmless-uses-of-deepfakes-such-as-entertainment-and-satire-and-the-darker-implications-including-non-consensual-content-political-disinformation-and-financial-fraud-it-features-expert-commentary-on-how-deepfakes-can-erode-trust-in-digital-content-and-highlights-the-difficulty-of-distinguishing-between-authentic-and-synthetic-media-the-episode-stresses-the-urgent-need-for-public-awareness-regulations-and-technical-countermeasures-to-mitigate-the-risks-posed-by-deepfake-technology-in-our-increasingly-digital-world-span {
+  color: #06172f;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.length-7-minutes-and-45-seconds-this-al-jazeera-english-episode-of-start-here-provides-an-in-depth-explanation-of-deepfakes-from-how-they-are-created-using-artificial-intelligence-to-the-ethical-and-societal-dilemmas-they-pose-the-video-outlines-both-the-potential-harmless-uses-of-deepfakes-such-as-entertainment-and-satire-and-the-darker-implications-including-non-consensual-content-political-disinformation-and-financial-fraud-it-features-expert-commentary-on-how-deepfakes-can-erode-trust-in-digital-content-and-highlights-the-difficulty-of-distinguishing-between-authentic-and-synthetic-media-the-episode-stresses-the-urgent-need-for-public-awareness-regulations-and-technical-countermeasures-to-mitigate-the-risks-posed-by-deepfake-technology-in-our-increasingly-digital-world-span2 {
+  color: #06172f;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.uploaded-by-al-jazeera-english-on-june-21-2021 {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 3942px;
+  width: 432px;
+  height: 96px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.what-are-deepfakes-and-are-they-dangerous-start-here {
+  color: #3b506e;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 108px;
+  top: 3537px;
+  width: 503px;
+  height: 107px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.the-incredible-creativity-of-deepfakes-and-the-worrying-future-of-ai-tom-graham-ted {
+  color: #3b506e;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 123px;
+  top: 2982px;
+  width: 499px;
+  height: 107px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.youtube-embed5{
+  width: 593px;
+  height: 343px;
+  position: absolute;
+  left: 741px;
+  top: 3021px;
+  object-fit: cover;
+}
+.youtube-embed6 {
+  width: 593px;
+  height: 339px;
+  position: absolute;
+  left: 741px;
+  top: 3583px;
+  object-fit: cover;
+}
+.click-here-to-watch-the-video-or-play-it-from-the-website {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 146px;
+  top: 3658px;
+  width: 453px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.click-here-to-watch-the-video-or-play-it-from-the-website2 {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 146px;
+  top: 3113px;
+  width: 453px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.click-here-to-watch-the-video-or-play-it-from-the-website3 {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 135px;
+  top: 977px;
+  width: 453px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.click-here-to-watch-the-video-or-play-it-from-the-website4 {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 134px;
+  top: 1520px;
+  width: 453px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.click-here-to-watch-the-video-or-play-it-from-the-website5 {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 153px;
+  top: 2038px;
+  width: 453px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.click-here-to-watch-the-video-or-play-it-from-the-website6 {
+  color: #06172f;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: 700;
+  position: absolute;
+  left: 146px;
+  top: 2533px;
+  width: 453px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-36,
+.rectangle-36 * {
+  box-sizing: border-box;
+}
+.rectangle-36 {
+  background: #d9d9d9;
+  width: 1436px;
+  height: 553px;
+  position: absolute;
+  left: 2px;
+  top: 4015px;
+}
+.wrapper {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}

@@ -1,0 +1,210 @@
+.game,
+.game * {
+  box-sizing: border-box;
+}
+.game {
+  height: 748px;
+  width: 1436px;
+  position: relative;
+}
+.rectangle-16 {
+  width: 1436px;
+  height: 748px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.d-6-1 {
+  width: 394px;
+  height: 143px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.about-us {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 1194px;
+  top: 12px;
+  width: 181px;
+  height: 106px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 690px;
+  top: 48px;
+  width: 90px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-32 {
+  background: #06172f;
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #06172f;
+  border-width: 2px 0 0 0;
+  width: 1320.02px;
+  height: 0px;
+  position: absolute;
+  left: 55px;
+  top: 92px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  transform: rotate(0deg) scale(1, 1);
+}
+.videos {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 805px;
+  top: 54px;
+  width: 101px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.game2 {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 844px;
+  top: 54px;
+  width: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.threats-recommendations {
+  color: #06172f;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  left: 918px;
+  top: 12px;
+  width: 320px;
+  height: 106px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-54 {
+  width: 1437px;
+  height: 660px;
+  position: absolute;
+  left: -1px;
+  top: 88px;
+  overflow: visible;
+}
+.correct {
+  background-color: green;
+}
+
+.wrong {
+  background-color: red;
+}
+.real-or-deepfake {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 384px;
+  top: 500px;
+  width: 658px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.can-you-tell-if-the-media-is-real-or-deepfake {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 190px;
+  top: 110px;
+  width: 1059px;
+  height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index:1;
+}
+.instructions {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 100%;
+  font-weight: 400;
+  position: absolute;
+  left: 190px;
+  top: 150px;
+  width: 1059px;
+  height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index:1 ;
+}
+.wrapper {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
